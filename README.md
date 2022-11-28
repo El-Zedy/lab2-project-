@@ -43,9 +43,9 @@
 	
 ### :white_square_button: Send an invitation to me (:email:shimaakhallaf507@gmail.com).
 
-	- please open this link:
-	
-		 https://drive.google.com/file/d/1N7VijSYafm5Nw852kdo9Rh7Zd9W1VKlu/view?usp=share_link
+
+
+![alt text](https://github.com/El-Zedy/lab2-project-/blob/main/screen.png)
 		 
  
 
